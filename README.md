@@ -1,4 +1,4 @@
-### Oi! Eu sou a Bruna Dias 🖖
+### Oi! Eu sou a Bruna Dias 🖖☕🦜
 
 🎓 Estudando desenvolvimento Front-end e Mobile na <a href="https://soulcodeacademy.org/">SoulCode Academy</a><br>
 📚 Bibliotecária em formação pela <a href="https://www.eca.usp.br/">ECA</a><br>
@@ -20,6 +20,7 @@
   <img align="center" height="20" src="https://img.shields.io/badge/Intel-Core_i7_7th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
   <img align="center" height="20" src="https://img.shields.io/badge/Windows-DELL_INSPIRON_15_7000-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
+
 
   ##
 
