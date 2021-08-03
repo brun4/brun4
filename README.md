@@ -48,6 +48,9 @@
   <a href="https://www.linkedin.com/in/brun4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20"></a>
   <a href = "mailto:bruna.dias.silva@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="20"></a>
   <a href="https://t.me/br00n4" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank" height="20"></a> 
+  
+    
+ ##
     
   ![Snake animation](https://github.com/brun4/brun4/blob/output/github-contribution-grid-snake.svg)
 
