@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Bruna Dias 🖖☕🦜
 
-🎓 Estudando desenvolvimento Front-end e Mobile na <a href="https://soulcodeacademy.org/">SoulCode Academy</a><br>
+🎓 Estudante do bootcamp de Front-end e Mobile da <a href="https://soulcodeacademy.org/">SoulCode Academy</a><br>
 📚 Bibliotecária em formação pela <a href="https://www.eca.usp.br/">ECA</a><br>
 ✨ Entusiasta de UX Design e UX Writing<br>
 ##
