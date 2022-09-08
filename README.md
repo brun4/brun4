@@ -1,8 +1,8 @@
 ### Oi! Eu sou a Bruna Dias 🖖☕🦜
 
 🎓 
-📚 Bibliotecária em formação pela <a href="https://www.eca.usp.br/">ECA</a><br>
-✨ Entusiasta de Product Design <br>
+📚 Bibliotecária em formação<br>
+✨ Aprendendo um pouquinho a cada dia<br>
 ##
 <div>
   <a href="https://github.com/brun4">
