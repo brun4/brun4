@@ -1,7 +1,5 @@
 ### Oi! Eu sou a Bruna Dias 🖖☕🦜
 
-🎓 
-📚 Bibliotecária em formação<br>
 ✨ Aprendendo um pouquinho a cada dia<br>
 ##
 <div>
